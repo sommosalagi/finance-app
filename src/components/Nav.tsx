@@ -1,5 +1,4 @@
 import {
-  Button,
   Disclosure,
   DisclosureButton,
   DisclosurePanel,
